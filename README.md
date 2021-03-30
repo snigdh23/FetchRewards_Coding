@@ -1,7 +1,7 @@
 # FetchRewards_Coding
 The code is running a Jaccard Similarity Measure and Cosine Similarity Measure on all the sample combinations.
 
-And will dsiplay the result.
+And will display the result on the 6th Cell of the Notebook.
 
 The individual running the code just needs to do a run all on the python notebook.
 
